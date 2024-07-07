@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kunal rijhonia
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning javascript,react.js,java
+- 🌱 I’m currently learning nodejs,golang,java
 - 💞️ I’m looking to collaborate on my projects
 - 📫 DM on IG: @kanshuuu_
 - 😄 Pronouns: he/him
