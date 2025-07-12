@@ -1,6 +1,6 @@
 -  Hi, I’m Kunal rijhonia
--  I’m interested in web development
--  I’m currently learning nodejs,golang,java
+-  I’m interested in Data science
+-  I’m currently learning python,golang,java
 -  I’m looking to collaborate on my projects
 -  DM on IG: @kanshu.js
 -  Pronouns: he/him
