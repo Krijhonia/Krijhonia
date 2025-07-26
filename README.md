@@ -14,7 +14,7 @@
 - 💬 Ask me about **react , ts and python**
 
 - 📫 How to reach me **krijhonia@gmail.com**                                                      
-                                                                      ![Image](https://github.com/user-attachments/assets/51c5b79f-aecd-4f61-a84f-678d5617a0af)
+                                                                     
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/kunal-rijhonia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="kunal-rijhonia" height="30" width="40" /></a>
