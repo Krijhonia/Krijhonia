@@ -9,12 +9,11 @@
 
 - 🌱 I’m currently learning **Tensorflow and scikit-learn**
 
-- 👯 I’m looking to collaborate on **My DS projects**
+- 👯 I’m looking to collaborate on **My DS projects**                                                       ![Image](https://github.com/user-attachments/assets/51c5b79f-aecd-4f61-a84f-678d5617a0af)
 
 - 💬 Ask me about **react , ts and python**
 
-- 📫 How to reach me **krijhonia@gmail.com**
-  ![Image](https://github.com/user-attachments/assets/51c5b79f-aecd-4f61-a84f-678d5617a0af)
+- 📫 How to reach me **krijhonia@gmail.com**                                                      
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
