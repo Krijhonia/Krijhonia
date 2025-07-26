@@ -14,6 +14,7 @@
 - 💬 Ask me about **react , ts and python**
 
 - 📫 How to reach me **krijhonia@gmail.com**
+  ![Image](https://github.com/user-attachments/assets/51c5b79f-aecd-4f61-a84f-678d5617a0af)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
