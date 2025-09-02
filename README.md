@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kunal Rijhonia</h1>
+<h1 align="center">Hi , I'm Kunal Rijhonia</h1>
 <h3 align="center">🚀 Aspiring Data Scientist | Passionate about AI, ML & Data Analytics</h3>
 
 <p align="center">
