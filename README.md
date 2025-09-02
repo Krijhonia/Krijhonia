@@ -8,7 +8,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 🔭 Currently working on **Automated Exploratory Data Analysis (EDA) tools**  
+- 🔭 Currently working on **Data Insight Pro**  
 - 🌱 Learning **TensorFlow, Scikit-learn & Advanced ML techniques**  
 - 👯 Open to collaborate on **Machine Learning & Data Science projects**  
 - 💬 Ask me about **Python, Data Analysis, Machine Learning, and AI**  
