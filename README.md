@@ -16,7 +16,7 @@ A passionate **Web Developer & Computer Science student** who loves building cle
 - **Frontend:** HTML5, CSS3, JavaScript  
 - **Programming:** Python, C  
 - **Tools:** Git, GitHub, VS Code  
-- **Databases:** SQL (Basic)
+- **Databases:** SQL
 
 ---
 
