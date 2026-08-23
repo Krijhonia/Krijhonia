@@ -1,35 +1,32 @@
 # Hi, I'm Kunal Rijhonia
 
-I am a 2nd-year B.Tech Computer Science Engineering student specializing in backend development and enterprise applications. Alongside my academic studies, I have professional experience as a .NET Developer Intern at Punjab State Transmission Corporation Ltd. (PSTCL), where I focused on building robust and scalable solutions. 
+I am a 2nd-year B.Tech Computer Science Engineering student with a strong foundation in software development and a growing expertise in modern web technologies. With prior professional experience as a .NET Developer Intern at Punjab State Transmission Corporation Ltd. (PSTCL) and entrepreneurial experience managing a local startup, I bring a unique blend of technical problem-solving and business acumen to my work.
 
-Beyond software development, I have a strong entrepreneurial drive, having launched and managed a local startup, which has sharpened my problem-solving and business operations skills.
-
-### 💼 What I'm Doing Currently
+### Current Focus
 * **Studying:** B.Tech in Computer Science Engineering (2nd Year).
-* **Working on:** Backend development using C#, ASP.NET Core, Minimal APIs, and MVC frameworks.
-* **Learning:** Deepening my knowledge of Data Structures and Algorithms (DSA) using Java and C++ to optimize code performance.
-* **Exploring:** Full-stack development workflows integrating Node.js and MongoDB.
+* **Working on:** Building scalable applications and web projects using TypeScript and JavaScript.
+* **Learning:** Mastering Data Structures and Algorithms (DSA) in C++ to optimize logic and problem-solving skills.
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 **Languages:** 
-* C#, Java, C++, JavaScript
+* C++, TypeScript, JavaScript, C#, Java
 
 **Frameworks & Technologies:** 
-* .NET, ASP.NET Core, MVC, Minimal APIs, Node.js
+* Node.js, .NET (ASP.NET Core, MVC, Minimal APIs)
 
 **Databases:** 
 * MongoDB, SQL
 
 **Developer Tools:** 
-* Visual Studio, VS Code, Neovim, Git, GitHub
+* VS Code, Neovim, Visual Studio, Git, GitHub
 
-### 📈 Professional Focus
-I am passionate about writing clean, maintainable code and solving complex architectural challenges. I am actively building my portfolio and always open to new opportunities in software engineering, web development, and tech internships where I can contribute to high-impact projects.
+### Professional Goals
+I am passionate about writing clean, efficient code and tackling complex logic problems. I am actively building my project portfolio and am open to new opportunities, collaborations, and internships in software engineering and web development.
 
-### 📫 How to Reach Me
+### Contact Me
 * **LinkedIn:** [Your LinkedIn URL]
 * **Email:** [Your Professional Email]
 * **Portfolio:** [Your Portfolio/Website URL if applicable]
 
 ---
-*Always open to collaborating on open-source .NET projects and technical discussions.*
+*Always open to discussing data structures, web development, or collaborating on open-source projects.*
