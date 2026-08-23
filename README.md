@@ -24,9 +24,9 @@ I am a 2nd-year B.Tech Computer Science Engineering student with a strong founda
 I am passionate about writing clean, efficient code and tackling complex logic problems. I am actively building my project portfolio and am open to new opportunities, collaborations, and internships in software engineering and web development.
 
 ### Contact Me
-* **LinkedIn:** [Your LinkedIn URL]
-* **Email:** [Your Professional Email]
-* **Portfolio:** [Your Portfolio/Website URL if applicable]
+* **LinkedIn:** https://www.linkedin.com/in/kunal-rijhonia-5b6938301/
+* **Email:** krijhonia@gmail.com
+* **Portfolio:** Currently working on it
 
 ---
 *Always open to discussing data structures, web development, or collaborating on open-source projects.*
